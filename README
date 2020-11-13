@@ -1,0 +1,10 @@
+start do project 
+    npm i na raiz 
+    npm run dev 
+
+testar email
+    mailtrap
+
+routas insomia
+    pasta insomia
+
